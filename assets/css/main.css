@@ -1724,3 +1724,13 @@ section,
   width: 30px;
   height: 30px;
 }
+
+#iconoimg2 {
+  width: 70px;
+  height: 70px;
+  border: 2px solid #ffffff; /* Borde de 2px color gris */
+  border-radius: 5px; /* Bordes redondeados opcionales */
+  padding: 5px; /* Espacio dentro del borde */
+  margin-right: 10px; /* Espacio entre el ícono y el texto */
+}
+

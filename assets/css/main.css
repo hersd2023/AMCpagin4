@@ -1740,3 +1740,8 @@ section,
 
 }
 
+#iconoimg4{
+  width: 55px;
+  height: 55px;
+  margin-right: 10px; /* Espacio entre el ícono y el texto */
+}

@@ -1745,3 +1745,19 @@ section,
   height: 55px;
   margin-right: 10px; /* Espacio entre el ícono y el texto */
 }
+
+#services-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+#services-table th, #services-table td {
+  border: 1px solid #ddd;
+  padding: 10px;
+  text-align: left;
+}
+
+#services-table th {
+  background-color: #f4f4f4;
+  font-weight: bold;
+}
